@@ -94,7 +94,7 @@ public class ReportServiceImpl implements ReportService {
 
 		String subject = "Test Mail Subject";
 		String body = "<h1> Test Mail Body </h1>";
-		String to = "tejas.bannore035@gmail.com";
+		String to = "yyy@gmail.com";
 
 		emailUtils.sendEmail(subject, body, to, f);
 
@@ -116,7 +116,7 @@ public class ReportServiceImpl implements ReportService {
 
 		String subject = "Test Mail Subject";
 		String body = "<h1> Test Mail Body </h1>";
-		String to = "tejas.bannore035@gmail.com";
+		String to = "yyy@gmail.com";
 
 		emailUtils.sendEmail(subject, body, to, f);
 
